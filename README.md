@@ -2,6 +2,8 @@
 
 ## Quickstart
 
+This project is built on the basis of Decompetition (https://github.com/decompetition/server.git)
+
 Decompetition runs as a simple Python (Flask) server.  Make sure you have all
 the dependencies, initialize your database, and run it:
 
